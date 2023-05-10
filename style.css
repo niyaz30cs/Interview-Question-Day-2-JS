@@ -1,0 +1,25 @@
+.question
+{
+    background-color:yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ans
+{
+    color: red;
+}
+pre 
+{
+    color: blue;
+    font-size: 20px;
+}
+.star
+{
+    font-size: 30px;
+    color: red;
+}
+.center
+{
+    display: flex;
+    justify-content: center;
+    color: deeppink;
+}
